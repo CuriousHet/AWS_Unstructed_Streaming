@@ -1,0 +1,31 @@
+{
+  "file_name": "Network_Administrator_Position",
+  "position": "Network Administrator",
+  "classcode": "NA3345",
+  "salary_start": 70000,
+  "salary_end": 78000,
+  "start_date": "2024-10-01",
+
+  "experience_length": "Minimum of 3 years of experience in network administration",
+  "education_length": "Associate or Bachelor's degree in Information Technology, Network Administration, or a related field",
+  "req": "Technical certification preferred",
+
+  "duties": [
+    "Manage and monitor network infrastructure to ensure high availability and performance.",
+    "Perform network troubleshooting and manage network security protocols.",
+    "Coordinate with IT teams to implement and support network upgrades and expansions."
+  ],
+
+  "selection": [
+    "Preliminary technical assessment followed by an on-site interview with the IT team.",
+    "A practical exam on network troubleshooting may be required for final candidates."
+  ],
+
+  "notes": [
+    "Occasional on-call duty required to address urgent network issues."
+  ],
+
+  "application_location": "Send your resume and cover letter to [hr@company.com].",
+
+  "job_type": "Full-time, 40 hours per week."
+}

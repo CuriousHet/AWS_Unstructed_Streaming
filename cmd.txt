@@ -1,0 +1,1 @@
+spark-submit --packages org.apache.hadoop:hadoop-aws:3.3.1,com.amazonaws:aws-java-sdk:1.11.1026 app.py

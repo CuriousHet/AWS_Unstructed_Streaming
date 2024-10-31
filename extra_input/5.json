@@ -1,0 +1,31 @@
+{
+  "file_name": "Database_Administrator_Position",
+  "position": "Database Administrator",
+  "classcode": "DBA4567",
+  "salary_start": 85000,
+  "salary_end": 95000,
+  "start_date": "2024-12-01",
+
+  "experience_length": "Minimum of 2 years of experience managing databases",
+  "education_length": "Bachelor’s degree in Information Systems, Computer Science, or related field",
+  "req": "Database certification preferred (e.g., Oracle, Microsoft SQL Server)",
+
+  "duties": [
+    "Ensure database performance, security, and availability.",
+    "Perform routine maintenance and manage backups and disaster recovery procedures.",
+    "Collaborate with software development teams to support database needs."
+  ],
+
+  "selection": [
+    "Initial screening and database management test, followed by an in-person interview.",
+    "Final interview with the IT director and DBA team members."
+  ],
+
+  "notes": [
+    "On-site work preferred; flexible hours may be arranged."
+  ],
+
+  "application_location": "Apply through LinkedIn or directly at [databasejobs.com].",
+
+  "job_type": "Full-time, 40 hours per week."
+}

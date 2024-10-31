@@ -1,0 +1,31 @@
+{
+  "file_name": "UX_Designer_Position",
+  "position": "UX Designer",
+  "classcode": "UX9090",
+  "salary_start": 80000,
+  "salary_end": 88000,
+  "start_date": "2024-11-10",
+
+  "experience_length": "Minimum of 3 years of experience in UX/UI design",
+  "education_length": "Bachelor’s degree in Design, Human-Computer Interaction, or a related field",
+  "req": "Portfolio of design work required",
+
+  "duties": [
+    "Design and prototype user interfaces for web and mobile applications.",
+    "Conduct user research and usability testing to gather insights.",
+    "Collaborate with developers to ensure seamless implementation of designs."
+  ],
+
+  "selection": [
+    "Portfolio review followed by a design skills test and an interview with the design team.",
+    "Final candidates will present a mock project proposal."
+  ],
+
+  "notes": [
+    "Option for remote work with monthly team collaboration sessions on-site."
+  ],
+
+  "application_location": "Applications accepted on [designjobs.com].",
+
+  "job_type": "Full-time, 40 hours per week."
+}

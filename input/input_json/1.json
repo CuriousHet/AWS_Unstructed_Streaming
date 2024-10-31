@@ -1,0 +1,31 @@
+{
+  "file_name": "Software_Developer_Position",
+  "position": "Software Developer",
+  "classcode": "SD5678",
+  "salary_start": 75000,
+  "salary_end": 80000,
+  "start_date": "2024-08-05",
+
+  "experience_length": "Minimum of 2 years of experience ",
+  "education_length": "Bachelor’s degree in Computer Science, Software Engineering, or a related field",
+  "req": "Accredited University",
+
+  "duties": [
+    "Design and develop software applications with a focus on scalability and performance.",
+    "Work closely with cross-functional teams, including product managers and designers, to deliver software solutions.",
+    "Perform code reviews and maintain quality standards within the development team."
+  ],
+
+  "selection": [
+    "Initial resume screening, followed by a technical interview and a live coding exercise.",
+    "Finalists may participate in a team-based project assessment."
+  ],
+
+  "notes": [
+    "Remote work is available; however, employees are expected to attend bi-annual team meetings in the main office."
+  ],
+
+  "application_location": "Submit applications on our website at [companycareers.com].",
+
+  "job_type": "Full-time, 40 hours per week."
+}

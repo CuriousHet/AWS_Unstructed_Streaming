@@ -1,0 +1,31 @@
+{
+  "file_name": "Data_Analyst_Position",
+  "position": "Data Analyst",
+  "classcode": "DA1122",
+  "salary_start": 65000,
+  "salary_end": 72000,
+  "start_date": "2024-09-15",
+
+  "experience_length": "Minimum of 1 year of experience in data analysis or a related field",
+  "education_length": "Bachelor’s degree in Statistics, Mathematics, Computer Science, or a related field",
+  "req": "Recognized institution",
+
+  "duties": [
+    "Collect, process, and analyze large datasets to generate actionable insights.",
+    "Collaborate with business units to define and track key performance indicators.",
+    "Create reports and visualizations to communicate data trends and insights."
+  ],
+
+  "selection": [
+    "Initial screening followed by a technical assessment in data analytics and visualization.",
+    "Final interview includes a case study presentation."
+  ],
+
+  "notes": [
+    "Hybrid work environment with 2 days a week in-office attendance required."
+  ],
+
+  "application_location": "Apply through our company portal at [companyportal.com].",
+
+  "job_type": "Full-time, 40 hours per week."
+}

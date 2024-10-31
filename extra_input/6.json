@@ -1,0 +1,31 @@
+{
+  "file_name": "Project_Manager_Position",
+  "position": "Project Manager",
+  "classcode": "PM7812",
+  "salary_start": 90000,
+  "salary_end": 105000,
+  "start_date": "2024-12-15",
+
+  "experience_length": "Minimum of 4 years in project management",
+  "education_length": "Bachelor’s degree in Business, Project Management, or related field",
+  "req": "PMP or relevant certification required",
+
+  "duties": [
+    "Oversee project planning, scheduling, and budget management.",
+    "Coordinate with teams to ensure project deliverables meet client expectations.",
+    "Provide regular updates to stakeholders on project status and milestones."
+  ],
+
+  "selection": [
+    "Resume review, followed by an initial screening interview and a project planning exercise.",
+    "Final candidates participate in a leadership interview with senior management."
+  ],
+
+  "notes": [
+    "Hybrid work model; remote work allowed with bi-weekly in-office meetings."
+  ],
+
+  "application_location": "Apply directly at our careers page [companycareers.com].",
+
+  "job_type": "Full-time, 40 hours per week."
+}

@@ -1,0 +1,43 @@
+DATA ENGINEER
+
+Class Code: DE1234
+Open Date: 07-13-24
+
+ANNUAL SALARY
+
+$85,000 to $90,000
+
+Requirements:
+
+At least 3 years of experience in data engineering or a related field.
+Bachelor’s degree in Computer Science or Data Engineering.
+Accredited University.
+
+DUTIES
+
+Build and optimize data pipelines using Apache Spark, Kafka, and Airflow.
+Collaborate with data scientists and analysts to ensure efficient data flow.
+Maintain and improve the data architecture for scalable data processing.
+
+Selection Criteria:
+
+1. Candidates will undergo an initial screening followed by a technical interview and a practical coding assessment.
+
+NOTE:
+
+Remote work is possible, but candidates must be available for quarterly in-person meetings at the main office.
+
+Application Location
+
+Submit applications via our careers portal at [companycareers.com].
+
+Job Type
+
+Full-time, 40 hours per week.
+
+APPLICATION DEADLINE
+
+Application will be only accepted on-line on the data listed below:
+
+From 8:00 a.m. Friday, July 13, 2024 to 11:59 p.m., Thursday, July 26, 2024
+From 8:00 a.m. Friday, June 7, 2024 to 11:59 p.m., Thurday, June 20, 2024
